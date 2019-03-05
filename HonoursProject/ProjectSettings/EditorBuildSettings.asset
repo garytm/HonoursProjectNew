@@ -4,4 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/NewArmSwinging.unity
+    guid: d63573a21c076494ebfe2e964cf88042
+  - enabled: 1
+    path: Assets/Scenes/NewHeadBobbing.unity
+    guid: a0a002c65df5e2247b7610ebb0d0328c
+  - enabled: 1
+    path: Assets/Scenes/NewInstantTP.unity
+    guid: fe067ce44886b9c408921eb1e7108810
+  - enabled: 1
+    path: Assets/Scenes/NewTPDash.unity
+    guid: 44adc5294e0dc314cb1bd554fa20c52e
+  m_configObjects: {}

@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="HonoursProject.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SteamVR\readme.txt">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CustomScripts\SceneManager.cs">
     <Files>
-      <File FileName="Assets\SteamVR\Scripts\SteamVR.cs" Line="135" Column="1" />
+      <File FileName="Assets\SteamVR\Scripts\SteamVR.cs" Line="1" Column="1" />
       <File FileName="Assets\SteamVR\readme.txt" Line="1" Column="1" />
+      <File FileName="Assets\CustomScripts\SceneManager.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
