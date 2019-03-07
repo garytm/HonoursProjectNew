@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/NewTPDash.unity
+- path: Assets/Scenes/NewHeadBobbing.unity
   isLoaded: 1
   isActive: 1
